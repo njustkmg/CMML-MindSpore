@@ -7,7 +7,7 @@ MindSpore Vision of CMML
 
 ## Training CMML
 
-###Prepare the data
+### Prepare the data
  > sample
  >
  > --sample_view1.png
@@ -20,3 +20,5 @@ MindSpore Vision of CMML
  >
 Each sample can be trained after this treatment
  
+### Run the code
+> python ms_train.py
