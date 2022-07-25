@@ -17,5 +17,6 @@ MindSpore Vision of CMML
  >...
  >
  >--sample_viewN.png
+ >
 Each sample can be trained after this treatment
  
